@@ -1,6 +1,6 @@
-# Date: 12/29/2018
-# Author: Mohamed
-# Description: Instagram bruter
+# Date: 07/01/2021
+# Author: TürkSiberOrdusu
+# Description: YouTube Bruter
 
 from sys import exit
 from os.path import exists
